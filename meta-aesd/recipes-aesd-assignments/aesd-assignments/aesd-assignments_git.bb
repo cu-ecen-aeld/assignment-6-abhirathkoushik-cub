@@ -7,7 +7,7 @@ inherit update-rc.d
 SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-abhirathkoushik-cub.git;protocol=ssh;branch=main"
 
 PV = "1.0+git${SRCPV}"
-SRCREV = "470b1cd1ccbbc67734df52e947fdb6d8fbdf13ce"
+SRCREV = "ec233c90c8c3d2c24c66a0cf61c21eeb3b79edc8"
 
 # This sets your staging directory based on WORKDIR, where WORKDIR is defined at 
 # https://docs.yoctoproject.org/ref-manual/variables.html?highlight=workdir#term-WORKDIR
